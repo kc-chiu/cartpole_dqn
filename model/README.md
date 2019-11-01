@@ -1,0 +1,1 @@
+The model 'cartpole-dqn-500.h5' can achieve score of 499 in about 80% of the games
