@@ -30,3 +30,4 @@ Week 9 homework of [Make Money with Machine Learning course](https://www.machine
 
 ## References
 1. [deep-q-learning](https://github.com/keon/deep-q-learning)
+2. [OpenAI Gym](https://gym.openai.com/docs/)
